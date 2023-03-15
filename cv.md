@@ -18,3 +18,17 @@ I work as a motion designer for a TV channel and a media agency. I decided to ch
 * CSS (Basic)
 * Git (Basic)
 #
+## Code Example
+```
+<div class="accordion">
+  <div class="mem1">
+    <i class="fa-solid fa-plus"></i>
+    <label class="mem-title" for="mem-1">Фронтендер, которого хвалят за красивую страницу</label>
+    <input class="mem-input" type="checkbox" id="mem-1">
+    <div class="mem-image">
+        <p><img src="images/img1.png"></p>
+    </div>
+</div>
+</div>
+```
+#
