@@ -32,3 +32,9 @@ I work as a motion designer for a TV channel and a media agency. I decided to ch
 </div>
 ```
 #
+## Education
+**Unversity**: BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS,     
+Faculty of Radioengineering and Electronics
+#
+## English
+**A2**
